@@ -1,6 +1,6 @@
 node {
 	
-	state 'DevOpsDemo Checkout'
+	stage 'DevOpsDemo Checkout'
 	git url: 'https://github.com/tarunwalia/DevOpsDemo.git'
 	
    // Mark the code checkout 'stage'....
